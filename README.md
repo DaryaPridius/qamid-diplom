@@ -21,3 +21,6 @@
     ./gradlew allureServe
 ```
 После выполнения команды, вы увидите ссылку, по которой можно открыть отчет в браузере.
+
+[отчёт по тестированию приложения](https://github.com/DaryaPridius/qamid-diplom/blob/main/allure-report.zip)
+
